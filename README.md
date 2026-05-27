@@ -32,6 +32,11 @@ Le programme gère :
 - Compilation avec gcc
 - Exécution dans le terminal
 
+## Problème connu
+
+Un petit problème est encore présent à la fin de certaines parties du jeu.
+Le programme fonctionne globalement correctement, mais une amélioration reste à faire concernant la gestion de la fin de partie.
+
 ## Compilation
 
 ```bash
@@ -43,3 +48,6 @@ gcc main.c -o puissance4
 ```bash
 ./puissance4
 ```
+## Auteur 
+
+# Kuruparan PATHMARANJAN
