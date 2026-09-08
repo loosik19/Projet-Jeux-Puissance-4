@@ -1,6 +1,5 @@
 # Projet Jeux Puissance 4
-Projet réalisé dans le cadre du mini-projet de Programmation Impérative en Licence 1 à l’Université Sorbonne Paris Nord.
-
+Projet réalisé dans le cadre d'un projet personnel
 ## Description
 
 Ce projet consiste en une implémentation du célèbre jeu **Puissance 4** en langage **C**, jouable directement dans la console.
